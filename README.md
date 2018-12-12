@@ -1,0 +1,2 @@
+# RSC
+Un IDE para GHDL y GTKWAVE
